@@ -1,0 +1,2 @@
+C:\Users\student\Desktop\Kevin\Week3-C#\Books\Books\bin\Debug\Books.exe.config
+C:\Users\student\Desktop\Kevin\Week3-C#\Books\Books\obj\Debug\Books.csprojResolveAssemblyReference.cache
