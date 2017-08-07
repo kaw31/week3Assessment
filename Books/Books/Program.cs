@@ -30,7 +30,7 @@ namespace Books
     {
         static void Main(string[] args)
         {
-            string response;
+            //string response;
             string title;
             string author;
             int isbn;
@@ -68,7 +68,7 @@ namespace Books
             {
                 Console.WriteLine("Type the name of the book you would like to delete:");
                 bookToDelete = Console.ReadLine();
-                bookList.Remove(bookToDelete);
+                //bookList.Remove(bookToDelete);
             }
 
             else if (response == 'L')
